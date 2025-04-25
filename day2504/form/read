@@ -1,0 +1,28 @@
+{
+  "type": "checkbox",
+  "label": "Which colors do you like?",
+  "options": ["Red", "Blue", "Green"]
+}
+
+
+
+
+{
+    "title": "myForm",
+    "description": "A demo form",
+    "fields": [
+      { "type": "text", "label": "What is ?" },
+      { "type": "select", "label": "How old are you?", "options": ["<18", "18-30", "30-50", "50+"] }
+    ]
+  }
+
+
+
+
+
+  {
+    "answers": ["John Doe", "18-30", ["Red", "Blue"]]
+  }
+  
+  
+
